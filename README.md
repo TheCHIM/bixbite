@@ -6,8 +6,8 @@ Copyright (c) 2017-2018, The Bixbite-Project
 
 ## Development Resources
 
-- Web: [www.Bixbite.pro](https://www.Bixbite.pro)
-- Mail: [info@Bixbite.pro](mailto:info@Bixbite.pro)
+- Web: [www.Bixbite.pro](https://www.bixbite.pro)
+- Mail: [info@Bixbite.pro](mailto:info@bixbite.pro)
 
 The main and stable development branch is always master, so you can download the code by simply typing `git clone https://github.com/BixBite-project/bixbite.git`
 
@@ -190,7 +190,7 @@ application.
 
 * Clone source code, change to the root of the source code directory and build:
 
-        git clone https://github.com/bixbiteprojects/Bixbite; cd Bixbite; make release-static;
+        git clone https://github.com/BixBite-project/bixbite.git; cd Bixbite; make release-static;
 
 
 ### On OpenBSD:
@@ -214,9 +214,6 @@ By default, in either dynamically or statically linked builds, binaries target t
 
 * ```make release-static-64``` builds binaries on Linux on x86_64 portable across POSIX systems on x86_64 processors
 * ```make release-static-32``` builds binaries on Linux on x86_64 or i686 portable across POSIX systems on i686 processors
-* ```make release-static-armv8``` builds binaries on Linux portable across POSIX systems on armv8 processors
-* ```make release-static-armv7``` builds binaries on Linux portable across POSIX systems on armv7 processors
-* ```make release-static-armv6``` builds binaries on Linux portable across POSIX systems on armv6 processors
 * ```make release-static-win64``` builds binaries on 64-bit Windows portable across 64-bit Windows systems
 * ```make release-static-win32``` builds binaries on 64-bit or 32-bit Windows portable across 32-bit Windows systems
 
