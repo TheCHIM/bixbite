@@ -6,8 +6,8 @@ Copyright (c) 2017-2018, The Bixbite-Project
 
 ## Development Resources
 
-- Web: [www.Bixbite.pro](https://www.bixbite.pro)
-- Mail: [info@Bixbite.pro](mailto:info@bixbite.pro)
+- Web: [www.bixbite.pro](https://www.bixbite.pro)
+- Mail: [info@bixbite.pro](mailto:info@bixbite.pro)
 
 The main and stable development branch is always master, so you can download the code by simply typing `git clone https://github.com/BixBite-project/bixbite.git`
 
